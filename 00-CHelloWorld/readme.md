@@ -1,1 +1,1 @@
-Dev C++ 5.11
+Compilador Dev C++ 5.11
